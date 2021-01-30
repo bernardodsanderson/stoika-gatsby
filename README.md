@@ -6,12 +6,6 @@ Kick off your project with this help center boilerplate. This starter ships with
 
 _This README is a brief overview only. You can find the **full documentation** at [help.dferber.de](https://help.dferber.de/). That documentation site was built with this help center. Visit it to see what the help center looks like in production._
 
-Web Analytics
-
-```
-<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "b84e010ac73e400c84710fe7add96c16"}'></script><!-- End Cloudflare Web Analytics -->
-```
-
 ## 🚀 Quick start
 
 1.  **Clone the starter.**
