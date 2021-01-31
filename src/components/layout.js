@@ -310,19 +310,10 @@ class Layout extends React.Component {
         >
           <Logo color="currentColor" size="36px" />
           <div sx={{ mt: 2 }}>
-            Built with
+            Built by
             {` `}
-            {/*
-              PLEASE DO NOT REMOVE THIS LINK.
-
-              A lot of unpaid time is spent on making and maintaining the 
-              center. Nothing is expected in return. Keeping this link here
-              is the only small thing asked in return. So please don't remove it.
-
-              You are amazing for keeping it here, thank you.
-            */}
             <a
-              href="https://help.dferber.de"
+              href="https://bdsa.me"
               target="_blank"
               sx={{
                 color: "footerTextColor",
@@ -332,7 +323,7 @@ class Layout extends React.Component {
                 },
               }}
             >
-              Stoika
+              bdsa
             </a>
           </div>
         </footer>
